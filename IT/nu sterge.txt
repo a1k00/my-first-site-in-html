@@ -1,0 +1,173 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>incredible things witch u didn't know!</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<body background="clean-white-polygon-backgrounds-8.jpg">
+	<h1>"Did You Know" Facts That I will tell u?</h1>
+
+	<h2><em>1.Grapes light on fire in the microwave.
+</h2></em>
+	<p class="second"><strong>Back in 2011, a physicist at the University of Sydney went viral after he placed a grape in the microwave and filmed the fiery aftermath. And oddly enough, scientists couldn't explain the phenomenon until quite recently. A March 2019 study published in Proceedings of the National Academy of Sciences reported that the fruity fireball occurs as a result of the loose electrons and ions that cluster to form plasma when grapes get hot. And here are more of the 100 Fascinating Facts You'll Want to Share with Everyone You Know.</strong></p>
+	<img src="grapes.png" alt="test">
+
+	<h2><em>2.McDonald’s once created bubblegum-flavored broccoli.</em></h2>
+
+	<p class="first"> <strong>McDonald’s is always introducing new items for their loyal customers. And obviously, some are more successful than others. But their bubblegum-flavored broccoli, which the fast-food chain developed in 2014 as a tastier version of the leafy green for children, was a complete failure. McDonald’s CEO Don Thompson admitted that kids were confused by the taste.</strong></p>
+	<img src="brocoli.png" alt="test">
+
+	<h2><em>3.Chewing gum is banned in Singapore</em></h2>
+
+	<p class="third"><strong>Along with having laws against spitting and urinating anywhere but in a toilet (which you’re then legally obligated to flush if it’s a public washroom), Singapore has also banned chewing gum in an effort to keep the city clean and orderly. The ban was established in 1992. In 2004, exceptions were made for therapeutic, dental, or nicotine gums. And for more trivia tidbits, check out 55 Facts So Interesting You'll Kick Yourself for Not Knowing Them.</strong></p>
+<img src="guma.png" alt="nimic">
+	<h2><em>4.Daniel Radcliffe went through nearly 70 wands and 160 pairs of glasses during the making of the Harry Potter films.</em></h2>
+
+	<p class="forth"><strong>According to The Hollywood Reporter, the production team also made 40 versions of Salazar Slytherin’s locket, 250 paintings for the Marble Staircase, 900 Memory Vials for the cabinet in Dumbledore’s Office, and 210,000 coins for the Gringotts bank scene in the last two films alone. And for more on the wizard phenomenon, check out the 35 Ways Harry Potter Is Still Crazy Relevant.</strong></p>
+<img src="daniel.png" alt="hi">
+	<h2><em>5.Birds in Minnesota get drunk off of berries.</em></h2>
+
+	<p class="fifth"><strong>In October 2018, the Gilbert Minnesota Police Department issued a public notice about birds that appeared to be “under the influence.” It turns out that the airborne animals were apparently eating berries that had fermented due to early frost, which was making them “tipsy.” Unfortunately, this meant that the buzzed birds were acting confused and flying into windows. Hopefully, they were able to sleep it off.</strong></p>
+<img src="pasari.png" alt="salut">
+	<h2><em>6.There’s a toilet museum</em></h2>
+
+	<p class="sixth"><strong>The Sulabh International Museum Of Toilets in New Delhi, India, features a rare collection of objects “detailing the historic evolution of toilets” from 2500 BCE to right up until today. Learn about the toilet systems of ancient societies, the elaborately decorated toilets of 18th- and 19th-century Europe, and even a toilet from Austria that’s shaped like a lion so that you can feel like you’re riding the wild beast while doing your business.</strong></p>
+<img src="viceu.png" alt="idk">
+	<h2><em>7.It only takes six minutes for alcohol to affect your brain.
+</em></h2>
+
+	<p class="seventh"><strong>Just one drink can quickly go to your head, whether you feel it or not. Researchers at Heidelberg University Hospital found that just six minutes after consuming alcohol, changes are already taking place in the brain. So even if you don’t feel tipsy right away, you’re definitely not totally sober either.</strong></p>
+	<img src="alcool.png" alt="nimik">
+
+	<h2><em>8.The longest place name in the world is 85 letters long.</em></h2>
+
+	<p class="eighth"><strong>Unfortunately, this is one of the facts you probably can't repeat to your friends—and that's because it's nearly impossible to pronounce. Taumatawhakatangi­hangakoauauotamatea­turipukakapikimaunga­horonukupokaiwhen­uakitanatahu is in New Zealand and is 85 letters long. And when it comes to other super long place names, it’s followed by Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch in Wales, Chargoggagoggmanchauggagoggchaubunagungamaugg in the U.S.,  Tweebuffelsmeteenskootmorsdoodgeskietfontein in South Africa, and Azpilicuetagaraycosaroyarenberecolarre in Spain.</strong></p>
+	<img src="nume.png" alt="nu">
+
+	<h2><em>9.Shakespeare invented more than 1,700 words.</em></h2>
+
+	<p class="nineth"><strong>Shakespeare wrote some of the most beloved and revered pieces of literature the world has ever known, but in order to craft his plays and poems, he sometimes resorted to making up his own words. In fact, The Bard is said to have come up with more than 1,700 words including moonbeam, laughable, eyeball, bump, puking, champion, bedroom, excitement, and zany.</strong></p>
+	<img src="shake.png" alt="da">
+
+    <h2><em>10.Einstein’s brain was stolen when he died.</em></h2>
+
+    <p class="tenth"><strong>When Nobel Prize-winning physicist Albert Einstein passed away on April 18, 1955, he left behind specific instructions when it came to the disposal of his body, according to one National Geographic investigation. Einstein didn’t want his corpse to be worshiped or his brain to be studied, so he instructed those who were responsible for his remains to “cremate them, and scatter the ashes secretly in order to discourage idolaters.”
+
+However, Thomas Harvey, the pathologist on call when Einstein died at New Jersey’s Princeton Hospital, didn’t quite follow those instructions. Instead, he stole Einstein’s brain. From there, things got even weirder. When Einstein’s family found out, his son apparently didn’t object to the theft and Harvey was able to keep the brain in two jars in his basement before moving it to “a cider box stashed under a beer cooler.</strong>”</p>
+<img src="geniu.png" alt="sup">
+<h3>See the contents on the next page:)</h3>
+
+<a href="page2.html">page 2</a>
+
+<h3>if u want to see the end of this page click here</h3>
+
+<a href="page3.html">page 3</a>
+</body>
+</html>
+
+
+
+
+
+
+page2.html
+
+<link rel="stylesheet" href="style.css">
+<body background="clean-white-polygon-backgrounds-8.jpg">
+	
+</body>
+<h2><ol>
+	<h1>CONTENTS:</h1>
+		<li>Grapes light on fire in the microwave.</li>
+		<li>McDonald’s once created bubblegum-flavored broccoli</li>
+		<li>Chewing gum is banned in Singapore</li>
+		<li>Daniel Radcliffe went through nearly 70 wands and 160 pairs of glasses during the making of the Harry Potter films.</li>
+		<li>Birds in Minnesota get drunk off of berries.</li>
+	</h2></ol>
+	<h2><ul>
+	<li>6.There’s a toilet museum</li>	
+	<li>7.It only takes six minutes for alcohol to affect your brain.</li>
+	<li>8.The longest place name in the world is 85 letters long.</li>
+	<li>9.Shakespeare invented more than 1,700 words.</li>
+	<li>10.Einstein’s brain was stolen when he died.</li>
+	</h2></ul>
+	<h2>if u want to go back click there</h2>
+	<h2><a href="index.html">page 1</a></h2>
+	<h2>and if u changed your mind click here for the next page for some memes:></h2>
+	<h2><a href="page3.html">page 3</a></h2>
+
+
+
+page3.html
+
+<link rel="stylesheet" href="style.css">
+<h1><em><strong>-----------------------------------------------------Here you are some memes:>----------------------------------------------------</strong></em></h1>
+
+<img src="meme1.png" alt="hi">
+<img src="meme2.png" alt="hi">
+<img src="meme3.png" alt="hi">
+<img src="meme4.png" alt="hi">
+<img src="meme5.png" alt="hi">
+<p><h2>just click one of this ;-;</h2></p>
+ <h2><a href="index.html">page 1</a></h2>
+ <h2><a href="page2.html">page 2</a></h2>
+
+
+style.css
+
+body{
+	background-color: white; 
+}
+h1	{
+	color: black;
+}
+h2{
+	color: #D24444;
+}  
+.first{
+	color: black;
+}
+.second{
+	color: black;
+}
+.third{
+	color: black;
+}
+.forth{
+	color: black;
+}
+.fifth{
+	color: black;
+}
+.sixth{
+	color: black;
+}
+.seventh{
+	color: black;
+}
+.eighth{
+	color: black;
+}
+.nineth{
+	color: black;
+}
+.tenth{
+	color: black;
+
+}
+h3{
+	color: #265BB3;
+}
+ul{
+	color: #316CA8;
+	font-style: italic;
+}
+ol {
+	color:#316CA8; 
+	font-style:italic;
+}
